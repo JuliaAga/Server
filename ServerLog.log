@@ -1,0 +1,8 @@
+2020-04-08 20:04:22.159 [main] INFO  com.company.Server - Сервер запущен. Порт = 4004
+2020-04-08 20:04:31.620 [main] INFO  com.company.Server - Принят клиент Socket[addr=/127.0.0.1,port=53450,localport=4004]
+2020-04-08 20:04:42.166 [main] INFO  com.common.XmlFileSaver - Сообщение записано в файл
+2020-04-08 20:04:42.166 [main] INFO  com.company.Server - Клиент Юлия зарегистрировался.
+2020-04-08 20:04:42.166 [main] INFO  com.company.Server - Принято сообщение от клиента: Привет
+2020-04-08 20:04:42.172 [main] INFO  com.common.XmlFileSaver - Сообщение записано в файл
+2020-04-08 20:04:42.172 [main] INFO  com.company.Server - Клиент закрыт
+2020-04-08 20:04:42.173 [main] INFO  com.company.Server - Сервер остановлен
